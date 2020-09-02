@@ -8,6 +8,8 @@ An image as a link: <a href="https://www.w3schools.com">
 </a>
 <a href="https://www.w3schools.com" title="weblink">
 <div>Example of weblinking with a sentence.</div>
+
+<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
 </p>
 
 </body>
