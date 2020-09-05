@@ -49,6 +49,8 @@ img {
 <style>
 div {
   background-image: url("https://i.postimg.cc/zGTXDCyX/gettyimages-BC0025-001-2048x2048.jpg");
+  background-repeat:no-repeat;
+    background-size: cover;
   width: 300px;
   border: 15px solid green;
   padding: 100px;
