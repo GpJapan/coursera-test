@@ -6,3 +6,7 @@
 <h2 style="background-color:lightblue;font-family: arial black;font-size:25px;color:yellow;text-align:center; border-style: dotted solid;
 ">The border-width Property</h2>
 <p>This property specifies the width of the four borders:</p>
+
+
+<h2 style="background-color:lightblue;font-family: arial black;font-size:25px;color:yellow;text-align:center; border-style: dotted solid;border-radius: 8px;">The border-width Property</h2>
+<p>This property specifies the width of the four borders:</p>
