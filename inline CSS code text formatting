@@ -15,3 +15,27 @@
 <div id='page' style='width: 600px'>
   <h1 style='border:2px black solid; font-size:42px; width:fit-content; width:-webkit-fit-content; width:-moz-fit-content;'>Title</h1>
 </div>
+
+/*  image: border, padding code */
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 320px;
+  padding: 100px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>Calculate the total width:</h2>
+
+<img src="https://i.postimg.cc/HkPGDZfb/74362ba517e647e2d8d97e4c3bef6825.jpg" width="350" height="263" alt="Klematis">
+<div>The picture above is 350px wide. The total width of this element is also 350px.</div>
+
+</body>
+</html>
